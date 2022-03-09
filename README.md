@@ -9,3 +9,7 @@
 告诉你是怎样一步一步实现的~
 
 ![image](https://github.com/MonkeyMushroom/MiClockView/raw/master/2.gif)
+
+
+
+要想任意角度旋转，只需修改MiClockView#mMaxCameraRotate，比如设为100
